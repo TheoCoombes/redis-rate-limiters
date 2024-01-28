@@ -34,7 +34,7 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "3"
 pydantic = "<2"
 redis = ">4.2"
 
